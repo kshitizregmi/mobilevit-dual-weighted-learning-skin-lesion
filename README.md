@@ -141,15 +141,15 @@ Training demonstrates stable convergence with validation weighted F1 peaking abo
 
 **Test Set Performance**:
 
-![Test Confusion Matrix](results/test_confusion.png)
+![Test Confusion Matrix](results/test_confusion_matrix.png)
 
 **Validation Set Performance**:
 
-![Validation Confusion Matrix](results/validation_confusion.png)
+![Validation Confusion Matrix](results/validation_confusion_matrix.png)
 
 **Training Set Performance**:
 
-![Training Confusion Matrix](results/training_confusion.png)
+![Training Confusion Matrix](results/training_confusion_matrix.png)
 
 ### Per-Class Performance
 
